@@ -1,5 +1,6 @@
 message = "this is a message in lua!"
-chicken = 5
+chicken = "math is fun!"
+chicken = message
 output = chicken
 
 print(message)
