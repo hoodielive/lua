@@ -1,0 +1,4 @@
+#+TITLE: Notes
+* Understand
+- These basics are lua5.1.
+- I am not seeking to obtain mastery over this language, just to glean enough to manage my neovim configs.
